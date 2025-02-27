@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">     
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&center=true&vCenter=true&color=800080&width=835&height=70&lines=BudgetBuddy+Backend" alt="PennyPatrol Backend" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&center=true&vCenter=true&color=800080&width=835&height=70&lines=PennyPatrol+Backend" alt="PennyPatrol Backend" />
 </a>
 
 ## 🌍 About the Project
